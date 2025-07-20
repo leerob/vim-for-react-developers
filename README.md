@@ -55,7 +55,7 @@ View the completed [course file](./public/course.tsx).
 - `w`: Word
 - `p`: Paragraph
 - `t`: Tag
-- `q`: Quote (or `'`, `"`, ```)
+- `q`: Quote (or `'`, `"`, `` ` ``)
 - `b`: Bracket (or `(`, `{`, `[`, `<`)
 
 ### Examples
